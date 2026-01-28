@@ -94,22 +94,6 @@ This makes the system:
 
 ---
 
-## 📌 Example Output
-
-### 🔹 Explainable Learning Path
-Each recommendation includes detailed reasoning:
-
-![Explainable Output](screenshots/explainable_output.png)
-
----
-
-### 🔹 Skill Gap Analysis
-Explicit identification of missing skills based on the recommended path:
-
-![Skill Gap Analysis](screenshots/skill_gap_analysis.png)
-
----
-
 ## 🛠️ Tech Stack
 
 - **Python**
