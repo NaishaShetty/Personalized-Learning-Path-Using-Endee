@@ -1,0 +1,34 @@
+[
+  {
+    "id": "res_1",
+    "title": "Python for Data Science",
+    "description": "Learn Python basics, data types, loops, and functions for data science.",
+    "level": "Beginner",
+    "category": "Programming",
+    "skills_covered": ["Python", "Data Types", "Loops", "Functions"]
+  },
+  {
+    "id": "res_2",
+    "title": "Statistics for Machine Learning",
+    "description": "Probability, distributions, hypothesis testing, and statistics fundamentals.",
+    "level": "Beginner",
+    "category": "Math",
+    "skills_covered": ["Probability", "Statistics", "Distributions"]
+  },
+  {
+    "id": "res_3",
+    "title": "Machine Learning Foundations",
+    "description": "Supervised and unsupervised learning, regression, classification, and evaluation.",
+    "level": "Intermediate",
+    "category": "Machine Learning",
+    "skills_covered": ["Supervised Learning", "Unsupervised Learning", "Model Evaluation"]
+  },
+  {
+    "id": "res_4",
+    "title": "Deep Learning Basics",
+    "description": "Neural networks, backpropagation, and deep learning fundamentals.",
+    "level": "Advanced",
+    "category": "Deep Learning",
+    "skills_covered": ["Neural Networks", "Backpropagation", "Deep Learning"]
+  }
+]
